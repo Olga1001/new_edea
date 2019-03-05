@@ -34,4 +34,10 @@ $(document).ready(function () {
         $body.css('overflow', 'auto');
         $body.css('position', 'relative');
     }
+    $(".pricing-first-card", this).on("mousemove", function () {
+        $(".pricing-first-up_card", this).css("background", "#157efb");
+    });
+    $(".pricing-first-card", this).on("mouseout", function () {
+        $(".pricing-first-up_card", this).css("background", "none");
+    });
 });
