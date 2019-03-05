@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="cf3a85c1-a198-49bd-adce-d28d13c79f70" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/components/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/components/pages/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/sass/_media.sass" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/_media.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sass/main.sass" beforeDir="false" afterPath="$PROJECT_DIR$/app/sass/main.sass" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,39 +23,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/components/pages/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="45" />
-              <folding>
-                <element signature="n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="108">
+              <caret line="122" column="87" selection-start-line="122" selection-start-column="87" selection-end-line="122" selection-end-column="87" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/js/common.js">
+        <entry file="file://$PROJECT_DIR$/app/sass/_media.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-368">
-              <caret line="171" column="7" selection-start-line="171" selection-start-column="7" selection-end-line="171" selection-end-column="7" />
+            <state relative-caret-position="351">
+              <caret line="169" column="26" selection-start-line="169" selection-start-column="26" selection-end-line="169" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/sass/_media.sass">
+        <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="97" column="18" selection-start-line="97" selection-start-column="18" selection-end-line="97" selection-end-column="18" />
+            <state relative-caret-position="275">
+              <caret line="523" column="17" selection-start-line="523" selection-start-column="17" selection-end-line="523" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -61,12 +51,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>home-</find>
-      <find>home-home</find>
-      <find>-link</find>
-      <find>-underlink</find>
-      <find>Create Free Account</find>
-      <find>-flex</find>
       <find>header</find>
       <find>footer</find>
       <find>Let’s grow your</find>
@@ -88,9 +72,15 @@
       <find>-list</find>
       <find>-sec</find>
       <find>-second</find>
-      <find>home-third-item</find>
       <find>-third</find>
+      <find>home-third-item</find>
+      <find>home-fifth-title</find>
+      <find>together.</find>
+      <find>-conta</find>
+      <find>-btn</find>
+      <find>about</find>
       <find>footer-home-icon</find>
+      <find>spot</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -104,15 +94,15 @@
         <option value="$PROJECT_DIR$/../../last_gulp_project/app/js/common.js" />
         <option value="$PROJECT_DIR$/app/js/common.js" />
         <option value="$USER_HOME$/Downloads/Telegram Desktop/map3.js" />
-        <option value="$PROJECT_DIR$/app/sass/main.sass" />
-        <option value="$PROJECT_DIR$/app/components/pages/index.html" />
         <option value="$PROJECT_DIR$/app/sass/_media.sass" />
+        <option value="$PROJECT_DIR$/app/components/pages/index.html" />
+        <option value="$PROJECT_DIR$/app/sass/main.sass" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="74" />
-    <option name="y" value="27" />
+    <option name="x" value="270" />
+    <option name="y" value="50" />
     <option name="width" value="1514" />
     <option name="height" value="868" />
   </component>
@@ -208,18 +198,18 @@
       <option name="presentableId" value="Default" />
       <updated>1551711778680</updated>
       <workItem from="1551711779910" duration="3680000" />
-      <workItem from="1551769693707" duration="16534000" />
+      <workItem from="1551769693707" duration="25552000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20214000" />
+    <option name="totallyTimeSpent" value="29232000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="74" y="27" width="1514" height="868" extended-state="0" />
+    <frame x="270" y="50" width="1514" height="868" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -234,7 +224,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31428573" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.31428573" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -256,9 +246,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/_vars.sass">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -350,24 +337,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/components/pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="69" column="28" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="45" />
-          <folding>
-            <element signature="n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#3;n#main#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-368">
-          <caret line="171" column="7" selection-start-line="171" selection-start-column="7" selection-end-line="171" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../joyPools/app/js/map.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -388,10 +357,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/pages/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="197" column="8" lean-forward="true" selection-start-line="197" selection-start-column="8" selection-end-line="197" selection-end-column="79" />
+          <folding>
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/sass/_media.sass">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="97" column="18" selection-start-line="97" selection-start-column="18" selection-end-line="97" selection-end-column="18" />
+        <state relative-caret-position="351">
+          <caret line="169" column="26" selection-start-line="169" selection-start-column="26" selection-end-line="169" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/components/pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="122" column="87" selection-start-line="122" selection-start-column="87" selection-end-line="122" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="523" column="17" selection-start-line="523" selection-start-column="17" selection-end-line="523" selection-end-column="17" />
         </state>
       </provider>
     </entry>
