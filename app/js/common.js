@@ -35,9 +35,23 @@ $(document).ready(function () {
         $body.css('position', 'relative');
     }
     $(".pricing-first-card", this).on("mousemove", function () {
-        $(".pricing-first-up_card", this).css("background", "#157efb");
+        $(".pricing-first-up_card, .pricing-first-btn", this).css("background", "#157efb");
+        $(".pricing-first-title, .pricing-first-up_text, .pricing-first-month, .pricing-first-btn", this).css("color", "#ffffff");
+        $(".pricing-first-price", this).css("color", "#ffffff");
+
     });
     $(".pricing-first-card", this).on("mouseout", function () {
-        $(".pricing-first-up_card", this).css("background", "none");
+        $(".pricing-first-up_card, .pricing-first-btn", this).css("background", "none");
+        $(".pricing-first-title, .pricing-first-up_text, .pricing-first-month, .pricing-first-btn", this).css("color", "#424242");
+        $(".pricing-first-price", this).css("color", "#157efb");
+
     });
+    if (window.matchMedia("(max-width: 993px)").matches) {
+        if ($(".pricing-first-btn", this).text() === "Start my free month" || $(".pricing-first-btn", this).text() === "Join edea") {
+            $('.pricing-first-btn', this).text("Buy now");
+        }  else {
+            return $('.pricing-first-btn', this).text();
+        }
+    }
+
 });

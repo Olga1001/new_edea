@@ -537,6 +537,7 @@
     padding: 0 15px
     width: 100%
     margin: 0 auto
+    position: relative
   &-first
     &-flex
       display: flex
@@ -555,23 +556,28 @@
       font-size: 28px
       font-weight: 700
       line-height: 1
+      transition: all 0.3s ease
     &-up_text
       color: #424242
       font-size: 20px
       font-weight: 300
-      line-height: 45px
+      line-height: 36px
+      transition: all 0.3s ease
     &-price
       color: #157efb
       font-size: 60px
       font-weight: 400
       display: inline-block
-      margin: 18px 0 28px
+      margin: 25px 0 28px
+      transition: all 0.3s ease
     &-month
       color: #424242
       font-size: 16px
       font-weight: 400
       line-height: 13px
+      transition: all 0.3s ease
     &-up_card
+      transition: all 0.3s ease
       padding: 27px 0 23px
       border-bottom: 1px solid rgba(#707070, 0.11)
     &-down_card
@@ -582,7 +588,7 @@
       color: #000000
       font-size: 20px
       font-weight: 700
-      margin-bottom: 30px
+      margin-bottom: 44px
     &-down_text
       color: #424242
       font-size: 20px
@@ -605,12 +611,24 @@
       margin: 0 71px
       display: inline-block
       cursor: pointer
+      transition: all 0.3s ease
     &-title-text
       color: #646464
       font-size: 26px
       font-weight: 700
       line-height: 40px
       margin-top: 83px
+      text-align: center
+    &-women
+      position: absolute
+      left: -185px
+      bottom: 55px
+    &-tabs
+      display: none
+      margin-bottom: 29px
+  &-title_margin
+    margin-bottom: 25px
+
 
 
 @import "media" // Всегда в конце
