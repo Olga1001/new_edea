@@ -46,12 +46,5 @@ $(document).ready(function () {
         $(".pricing-first-price", this).css("color", "#157efb");
 
     });
-    if (window.matchMedia("(max-width: 993px)").matches) {
-        if ($(".pricing-first-btn", this).text() === "Start my free month" || $(".pricing-first-btn", this).text() === "Join edea") {
-            $('.pricing-first-btn', this).text("Buy now");
-        }  else {
-            return $('.pricing-first-btn', this).text();
-        }
-    }
 
 });
